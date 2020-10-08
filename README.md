@@ -7,7 +7,7 @@ My name is Veer Gadodia, and I'm a software developer and computing enthusiast w
 * **Web/Mobile Technologies:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, GCP, AWS, Heroku
 * **Machine Learning, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
 
-### Notable Coding Awards
+## Notable Coding Awards
 * **1st place** at Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
 * **2nd place** at Global Developer Challenge, Microsoft Hack for Africa, Neural Hacks, Def Hacks
 * **3rd place** at RamHacks, SET Hacks, NewtonHACKS
