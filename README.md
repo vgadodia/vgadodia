@@ -3,8 +3,8 @@
 My name is Veer Gadodia, and I'm a software developer and computing enthusiast with research and project experience in Artificial Intelligence, Machine Learning, and Computer Vision. I like to create software-based entrepreneurial solutions with real world impact. I also love participating in hackathons (see awards below). Feel free to reach me at veergadodia24@gmail.com to collab on a project!
 
 ## Skillset
-* **Languages:** Python, JavaScript, Java, C
-* **Web and Mobile Technologies:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, GCP, AWS, Heroku
+● **Languages:** Python, JavaScript, Java, C
+* **Web/Mobile Technologies:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, GCP, AWS, Heroku
 * **Machine Learning, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
 
 
