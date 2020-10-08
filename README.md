@@ -5,7 +5,7 @@ My name is Veer Gadodia, and I'm a software developer and computing enthusiast w
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C, HTML5, CSS3
 * **Web/Mobile:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, Firebase, GCP, AWS, Heroku
-* **Machine Learning, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
+* **ML, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
 
 ## Notable Coding Awards
 * **1st place** at Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
