@@ -8,10 +8,10 @@ My name is Veer Gadodia, and I'm a software developer and computing enthusiast w
 * **Machine Learning, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
 
 ## Notable Coding Awards
-* 1st place at Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
-* 2nd place at Global Developer Challenge, Microsoft Hack for Africa, Neural Hacks, Def Hacks
-* 3rd place at RamHacks, SET Hacks, NewtonHACKS
-* Track Winner at PennApps, AWS Hackathon for Good, World Hackathon Day, IvyHacks, HackDSC, MHacks, Sigma Hacks
+* **1st place** at Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
+* **2nd place** at Global Developer Challenge, Microsoft Hack for Africa, Neural Hacks, Def Hacks
+* **3rd place** at RamHacks, SET Hacks, NewtonHACKS
+* **Track Winner** at PennApps, AWS Hackathon for Good, World Hackathon Day, IvyHacks, HackDSC, MHacks, Sigma Hacks
 
 
 
