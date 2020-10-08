@@ -4,7 +4,7 @@ My name is Veer Gadodia, and I'm a software developer and computing enthusiast w
 
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C
-* **Web/Mobile Technologies:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, GCP, AWS, Heroku
+* **Web/Mobile:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, GCP, AWS, Heroku
 * **Machine Learning, AI, and Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
 
 ## Notable Coding Awards
