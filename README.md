@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Veer Gadodia, and I'm a software developer and computing enthusiast with project experience in Artificial Intelligence, Machine Learning, and Computer Vision. I like to create software-based entrepreneurial solutions with real world impact. I also love participating in hackathons (see awards below). Feel free to reach me at veergadodia24@gmail.com to collaborate on a project!
+My name is R Gadodia, and I'm a software developer and computing enthusiast with project experience in Artificial Intelligence, Machine Learning, and Computer Vision. I like to create software-based entrepreneurial solutions with real world impact. I also love participating in hackathons (see awards below). Feel free to reach me at veergadodia24@gmail.com to collaborate on a project!
 
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C, HTML5, CSS3
