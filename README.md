@@ -9,7 +9,7 @@ I'm a software developer and computing enthusiast with project experience in Art
 
 ## Notable Coding Awards
 * **1st place** at Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
-* **2nd place** at Global Developer Challenge, Microsoft Hack for Africa, Hack Kosice, MakeSPP, Neural Hacks, Def Hacks, Tiger Hacks
+* **2nd place** at Global Developer Challenge, Microsoft Hack for Africa, Hack Kosice, MakeSPP, Neural Hacks, Tiger Hacks
 * **3rd place** at RamHacks, SET Hacks, NewtonHACKS
 * **Track Winner** at PennApps, AWS Hackathon for Good, World Hackathon Day, IvyHacks, HackDSC, MHacks, Sigma Hacks
 
