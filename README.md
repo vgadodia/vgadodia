@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a software developer and computing enthusiast with project experience in Artificial Intelligence, Machine Learning, and Computer Vision. I like to create software-based entrepreneurial solutions with real world impact. I also love participating in hackathons (see awards below). Feel free to reach me to collaborate on a project or if you just want to chat!
+Incoming first-year student at MIT, and a software engineer and entrepreneur aiming to innovate cutting-edge entrepreneurial solutions through technology.
 
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C, HTML5, CSS3
