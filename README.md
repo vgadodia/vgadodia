@@ -8,10 +8,10 @@ Incoming first-year student at MIT, and a software engineer and entrepreneur aim
 * **Developer Tools:** GitHub, AWS, Google Cloud Platform, Firebase, Linux, Docker, VS Code
 
 ## Notable Coding Awards
-* **1st place** Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
-* **2nd place** Global Developer Challenge, Microsoft Hack for Africa, Hack Kosice, MakeSPP, Neural Hacks, Tiger Hacks
-* **3rd place** RamHacks, SET Hacks, NewtonHACKS
-* **Track Winner** HackMIT, PennApps, AWS Hackathon for Good, World Hackathon Day, IvyHacks, HackDSC, MHacks, Sigma Hacks
+* **1st place**: Auth0 Hackathon, Garuda Hacks, PlatHacks, COVID-19 Hack Challenge, TeenHacksHTX
+* **2nd place**: Global Developer Challenge, Microsoft Hack for Africa, Hack Kosice, MakeSPP, Neural Hacks, Tiger Hacks
+* **3rd place**: RamHacks, SET Hacks, NewtonHACKS
+* **Track Winner**: HackMIT, PennApps, AWS Hackathon for Good, World Hackathon Day, IvyHacks, HackDSC, MHacks, Sigma Hacks
 
 
 
