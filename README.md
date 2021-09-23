@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-Incoming first-year student at MIT, and a software engineer and entrepreneur aiming to innovate cutting-edge entrepreneurial solutions through technology.
+First-year student at MIT, and a software engineer and entrepreneur aiming to innovate cutting-edge entrepreneurial solutions through technology.
 
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C, HTML/CSS, SQL
