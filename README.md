@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-First-year student at MIT, and a software engineer and entrepreneur aiming to innovate cutting-edge entrepreneurial solutions through technology. Click [here](https://devpost.com/vgadodia) to see my projects!
+First-year student at MIT, and a software engineer and tech entrepreneur aiming to innovate cutting-edge solutions through technology. Click [here](https://devpost.com/vgadodia) to see my projects!
 
 ## Skillset
 * **Languages:** Python, JavaScript, Java, C, HTML/CSS, SQL
