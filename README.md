@@ -9,7 +9,7 @@ I'm a second-year computer science student at MIT, and a software engineer and t
 * Co-developer of Socialyze, an app helping students better connect on college campuses (2022 - Present)
 
 ## Previously
-* Founding engineer at [Next Medical] (https://joinnextmed.com) (2020-2021)
+* Founding engineer at [Next Medical](https://joinnextmed.com) (2020-2021)
 * Co-developed [Tango](https://devpost.com/software/tango-dikvm2), [DepthSense](https://devpost.com/software/depthsense), and [Workpoint](https://devpost.com/software/workpoint)
 * Winner at HackMIT, PennApps, Auth0 Hackathon, Global Developer Challenge
 
