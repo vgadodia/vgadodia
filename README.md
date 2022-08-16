@@ -4,7 +4,7 @@ I'm a second-year computer science student at MIT, and a software engineer and t
 
 ## Currently
 * Software Engineering Intern at Salesforce (Summer 2022)
-* Founder at [CodeGuru](https://joincodeguru.com) (2022 - Present)
+<!-- * Founder at [CodeGuru](https://joincodeguru.com) (2022 - Present) -->
 * Undergraduate researcher at [MIT Supertech](http://supertech.mit.edu/) (2022 - Present)
 * Co-developer of Socialyze, an app helping students better connect on college campuses (2022 - Present)
 
