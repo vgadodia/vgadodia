@@ -12,9 +12,9 @@ I'm a second-year computer science student at MIT, and a software engineer and t
 * Winner at HackMIT, PennApps, Auth0 Hackathon, Global Developer Challenge
 
 ## Skills
-* **Languages:** Python, JavaScript, Java, C, HTML/CSS, SQL
-* **Frameworks:** React.js, Node.js, Flask, React Native, MongoDB, PostgreSQL, TensorFlow, Scikit-learn, OpenCV
-* **Developer Tools:** GitHub, AWS, Google Cloud Platform, Firebase, Linux, Docker, VS Code
+* **Languages:** Python, Swift, JavaScript, Java, C, HTML/CSS, SQL
+* **Frameworks:** React.js, Node.js, SwiftUI, Flask, React Native, MongoDB, PostgreSQL, TensorFlow, Scikit-learn, OpenCV
+* **Developer Tools:** XCode, GitHub, AWS, Google Cloud Platform, Firebase, Linux, Docker, VS Code
 
 Feel free to reach out at vgadodia@mit.edu!
 
