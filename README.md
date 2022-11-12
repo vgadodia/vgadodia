@@ -13,7 +13,7 @@ I'm a second-year computer science student at MIT, and a software engineer and t
 
 ## Skills
 * **Languages:** Python, Swift, JavaScript, Java, C, HTML/CSS, SQL
-* **Frameworks:** React.js, Node.js, SwiftUI, Flask, React Native, MongoDB, PostgreSQL, TensorFlow, Scikit-learn, OpenCV
+* **Frameworks:** React.js, Node.js, SwiftUI, React Native, MongoDB, PostgreSQL, TensorFlow, Scikit-learn, OpenCV
 * **Developer Tools:** XCode, GitHub, AWS, Google Cloud Platform, Firebase, Linux, Docker, VS Code
 
 Feel free to reach out at vgadodia@mit.edu!
