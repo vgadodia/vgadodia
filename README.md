@@ -1,6 +1,6 @@
 ## Hey, I'm Veer! 👋
 
-I'm a second-year computer science student at MIT, and a software engineer and tech entrepreneur interested in deep tech, consumer-tech, cloud, fintech, and biotech.
+I'm a third-year computer science student at MIT, and a software engineer and tech entrepreneur interested in deep tech, consumer-tech, cloud, fintech, and biotech.
 
 <!-- ## Currently -->
 
