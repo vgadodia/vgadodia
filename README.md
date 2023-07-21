@@ -5,8 +5,8 @@ I'm a second-year computer science student at MIT, and a software engineer and t
 <!-- ## Currently -->
 
 ## Previously
-* Software Engineering Intern at Salesforce (Summer 2022)
-* Founding engineer at [Next Medical](https://joinnextmed.com) (2020-2021)
+* Software Engineering Intern at Salesforce (2022)
+* Software Engineering Intern at [Uptycs]([https://joinnextmed.com](https://www.uptycs.com/)) (2021)
 * Co-developed Socialyze, an app helping students better connect on college campuses (2022)
 * Co-developed [Tango](https://devpost.com/software/tango-dikvm2), [DepthSense](https://devpost.com/software/depthsense), and [Workpoint](https://devpost.com/software/workpoint)
 * Winner at HackMIT, PennApps, Auth0 Hackathon, Global Developer Challenge
