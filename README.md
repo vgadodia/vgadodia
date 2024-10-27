@@ -1,22 +1,20 @@
 ## Hey, I'm Veer! 👋
 
-I'm a third-year computer science student at MIT, and a software engineer and tech entrepreneur interested in deep tech, consumer-tech, cloud, fintech, and biotech.
+CS, Systems & AI @ MIT, software engineer and tech entrepreneur.
 
-<!-- ## Currently -->
+## Currently
+* Founding engineer at Airchat
 
 ## Previously
-* Software Engineering Intern at Salesforce (2022)
-* Software Engineering Intern at [Uptycs](https://www.uptycs.com/) (2021)
-* Co-developed Socialyze, an app helping students better connect on college campuses (2022)
+* Software engineering at Salesforce (2022)
+* Software engineering at [Uptycs](https://www.uptycs.com/) (2021)
 * Co-developed [Tango](https://devpost.com/software/tango-dikvm2), [DepthSense](https://devpost.com/software/depthsense), and [Workpoint](https://devpost.com/software/workpoint)
-* Winner at HackMIT, PennApps, Auth0 Hackathon, Global Developer Challenge
+* Winner at HackMIT, PennApps, Auth0 Hackathon, Global Developer Challenge, 20+ more
 
 ## Skills
 * **Languages:** Python, Swift, JavaScript, Java, C, HTML/CSS, SQL
 * **Frameworks:** React.js, Node.js, SwiftUI, React Native, MongoDB, PostgreSQL, TensorFlow, Scikit-learn, OpenCV
 * **Developer Tools:** XCode, GitHub, AWS, Google Cloud Platform, Firebase, Linux, Docker, VS Code
-
-Feel free to reach out at vgadodia@mit.edu!
 
 <!--
 **vgadodia/vgadodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
